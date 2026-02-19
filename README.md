@@ -17,7 +17,7 @@ The data was taken from a dataset which documented over 5300+ transactions, whic
 
 ---
 
-##Tools Used
+## Tools Used
 SQL Server – Data transformation & segmentation
 Power BI – Data modeling & dashboard
 DAX – Fraud metrics & KPIs
