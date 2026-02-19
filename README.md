@@ -4,7 +4,8 @@
 This project analyzes financial transaction data to identify fraud patterns across customer demographics, payment channels, geographic locations, and time.
 The objective is to simulate a real-world fraud monitoring dashboard used by financial institutions to detect high-risk segments and operational vulnerabilities.
 ---
-##Problems and Objectives
+## Problems and Objectives:
+
 Analyze financial transactions to identify fraud patterns across customer segments, payment channels, and time in order to support proactive risk monitoring. Questions asked for this project were mainly:
 Which payment methods have the highest fraud risk?
 Are certain customer segments more vulnerable?
