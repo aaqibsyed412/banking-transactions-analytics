@@ -17,7 +17,7 @@ How is the fraud trend over time?
 ---
 
 ## Data
-The data was taken from a dataset which documented over 5300+ transactions, which ranged everything from Transaction_ID to Customer_Gender and Age. We have very clear metrics as to what the dataset is about how transactions are detailed about their transactions and payments used.
+The data was taken from a dataset which documented over 5300+ transactions from 2014-2015, which ranged everything from Transaction_ID to Customer_Gender and Age. We have very clear metrics as to what the dataset is about how transactions are detailed about their transactions and payments used.
 
 ---
 
