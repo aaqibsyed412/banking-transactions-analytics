@@ -35,7 +35,7 @@ To make the dataset analysis-ready and dashboard-friendly, I performed core tran
 - **Filtering & validation:** excluded null/invalid age records where needed to avoid skewed segmentation
 - **Reporting-ready tables:** structured outputs specifically for Power BI visuals (e.g., fraud by age group)
 
-> SQL scripts are included in the `/sql` folder for reproducibility.
+> SQL scripts are included.
 
 ## Dashboard Design (Why it’s built this way)
 This report is designed like a real fraud monitoring view:
